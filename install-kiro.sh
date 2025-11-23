@@ -13,14 +13,14 @@ BLUE='\033[0;34m'
 NC='\033[0m' # No Color
 
 # Default installation directory
-DEFAULT_INSTALL_DIR="/opt/kiro"
+DEFAULT_INSTALL_DIR="/usr/share/kiro"
 USER_INSTALL_DIR="$HOME/.local/share/kiro"
 
 # Application information
 APP_NAME="Kiro"
 APP_COMMENT="Kiro - AI-powered development environment"
-APP_EXEC="/opt/kiro/bin/kiro"
-APP_ICON="/opt/kiro/resources/app/resources/linux/kiro.png"
+APP_EXEC="/usr/share/kiro/bin/kiro"
+APP_ICON="/usr/share/kiro/resources/app/resources/linux/kiro.png"
 USER_APP_ICON="$HOME/.local/share/kiro/resources/app/resources/linux/kiro.png"
 ICON_URL="./Kiro_1024x1024x32.png"
 TEMP_PNG_FILE="/tmp/kiro_icon.png"

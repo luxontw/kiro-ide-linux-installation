@@ -13,7 +13,7 @@ BLUE='\033[0;34m'
 NC='\033[0m' # No Color
 
 # Repository information
-REPO_URL="https://github.com/abhilashiig/kiro-ide-linux-installation"
+REPO_URL="https://github.com/luxontw/kiro-ide-linux-installation"
 TEMP_DIR="/tmp/kiro_installer_$(date +%s)"
 INSTALL_SCRIPT="install-kiro.sh"
 
